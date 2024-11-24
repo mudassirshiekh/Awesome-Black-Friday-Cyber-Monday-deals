@@ -7,6 +7,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ***
 
 # Add Your Deals ✍️✍️
+## By Mudassir Alam
 
 1. 🔁 [Send a pull](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/pulls) request to add your deal
 2. 👤 Non Techie? Fill [this form](https://fill.formnx.com/f/63pk80)
